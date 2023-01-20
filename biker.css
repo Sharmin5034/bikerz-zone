@@ -1,0 +1,13 @@
+.bz-prev-icon{
+    background-color: rgba(247, 91, 91, 0.205);
+}
+.brand-color{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.brand-color:hover{
+    color: whitesmoke;
+}
+.rating-icon{
+    width: 20px;
+}
